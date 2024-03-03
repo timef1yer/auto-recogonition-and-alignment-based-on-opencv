@@ -1,0 +1,1 @@
+# auto-recogonition-and-alignment-based-on-opencv
